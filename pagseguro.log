@@ -1,0 +1,247 @@
+
+11/11/2018 17:56:37 PagSeguro.Session[info]: Begin
+11/11/2018 17:56:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+11/11/2018 17:56:38 PagSeguro.Session[info]: Session ID: 4f61326a9745424bb2170d4d7a3afd4b
+11/11/2018 17:56:46 PagSeguro.Session[info]: Begin
+11/11/2018 17:56:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+11/11/2018 17:56:47 PagSeguro.Session[info]: Session ID: f7f9f7e097a840c1837a31af04233ce5
+11/11/2018 17:57:23 PagSeguro.Session[info]: Begin
+11/11/2018 17:57:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+11/11/2018 17:57:24 PagSeguro.Session[info]: Session ID: 422d65244b4d4cb395cae9be8c2d8f4a
+11/11/2018 18:07:46 PagSeguro.Session[info]: Begin
+11/11/2018 18:07:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+11/11/2018 18:07:47 PagSeguro.Session[info]: Session ID: c5c1c459c8a740808d977d66c55d8ff6
+11/11/2018 18:08:05 PagSeguro.Session[info]: Begin
+11/11/2018 18:08:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+11/11/2018 18:08:06 PagSeguro.Session[info]: Session ID: 6331e72dc0e3477a87539f0609f0042f
+11/11/2018 18:12:34 PagSeguro.Session[info]: Begin
+11/11/2018 18:12:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+11/11/2018 18:12:35 PagSeguro.Session[info]: Session ID: 79958ad515be445db8adfce3f2bc5e40
+12/11/2018 02:54:03 PagSeguro.Session[info]: Begin
+12/11/2018 02:54:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+12/11/2018 02:54:05 PagSeguro.Session[info]: Session ID: f57b33033e444270b3fd1bdbb7886c43
+13/11/2018 02:16:24 PagSeguro.Session[info]: Begin
+13/11/2018 02:16:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:16:27 PagSeguro.Session[info]: Session ID: fc1730e33e5f4105a4849ddc976c994b
+13/11/2018 02:18:06 PagSeguro.Session[info]: Begin
+13/11/2018 02:18:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:18:07 PagSeguro.Session[info]: Session ID: ca65b91fe364462ebc7495ca1d25f662
+13/11/2018 02:19:29 PagSeguro.Session[info]: Begin
+13/11/2018 02:19:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:19:30 PagSeguro.Session[info]: Session ID: 15493028f70b4e8fbec35a6184d05ea4
+13/11/2018 02:19:36 PagSeguro.Session[info]: Begin
+13/11/2018 02:19:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:19:37 PagSeguro.Session[info]: Session ID: cb0f0e4c774c49478ca75830cd1c5b85
+13/11/2018 02:19:49 PagSeguro.Session[info]: Begin
+13/11/2018 02:19:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:19:50 PagSeguro.Session[info]: Session ID: 423d2907ecea4f42a4026715dfad15b3
+13/11/2018 02:20:04 PagSeguro.Session[info]: Begin
+13/11/2018 02:20:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:20:06 PagSeguro.Session[info]: Session ID: 997765cddc054389bd805c5e4c2fb32d
+13/11/2018 02:20:25 PagSeguro.Session[info]: Begin
+13/11/2018 02:20:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:20:25 PagSeguro.Session[info]: Session ID: 586f587bce9e465eb0741573c88d0b8b
+13/11/2018 02:21:55 PagSeguro.Session[info]: Begin
+13/11/2018 02:21:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:21:56 PagSeguro.Session[info]: Session ID: 855ba7fa581a45e084ad1143abe9a665
+13/11/2018 02:22:14 PagSeguro.Session[info]: Begin
+13/11/2018 02:22:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:22:16 PagSeguro.Session[info]: Session ID: c32f1ab46d5847bca34fc990d082b735
+13/11/2018 02:22:22 PagSeguro.Session[info]: Begin
+13/11/2018 02:22:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:22:23 PagSeguro.Session[info]: Session ID: e1c15bc1fabb4aa8a137fafd8592fa4c
+13/11/2018 02:23:06 PagSeguro.Session[info]: Begin
+13/11/2018 02:23:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:23:07 PagSeguro.Session[info]: Session ID: 4d27bd084d8645068e791f2ca48a7719
+13/11/2018 02:23:13 PagSeguro.Session[info]: Begin
+13/11/2018 02:23:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:23:14 PagSeguro.Session[info]: Session ID: 330314878c8f47e49b160b0689338554
+13/11/2018 02:23:19 PagSeguro.Session[info]: Begin
+13/11/2018 02:23:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:23:20 PagSeguro.Session[info]: Session ID: 7231b5ca3e6c4ed9a8f4d9b883ce542f
+13/11/2018 02:23:33 PagSeguro.Session[info]: Begin
+13/11/2018 02:23:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:23:33 PagSeguro.Session[info]: Session ID: 7c4df445282c4c17aadf380fce0efcdb
+13/11/2018 02:23:41 PagSeguro.Session[info]: Begin
+13/11/2018 02:23:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:23:42 PagSeguro.Session[info]: Session ID: ec4daf25ad6b4798a894f66db54454a8
+13/11/2018 02:24:15 PagSeguro.Session[info]: Begin
+13/11/2018 02:24:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:24:16 PagSeguro.Session[info]: Session ID: 38cf2eda150240c6a86b1f35e5259dcb
+13/11/2018 02:25:53 PagSeguro.Session[info]: Begin
+13/11/2018 02:25:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:25:55 PagSeguro.Session[info]: Session ID: f37b09f095134b99956bca93b7de9f40
+13/11/2018 02:26:56 PagSeguro.Session[info]: Begin
+13/11/2018 02:26:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:26:57 PagSeguro.Session[info]: Session ID: f3851e58bf9e45828ab70301a3eb660f
+13/11/2018 02:27:07 PagSeguro.Session[info]: Begin
+13/11/2018 02:27:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:27:07 PagSeguro.Session[info]: Session ID: 7eef0b244cbd47ffb1f351737462df0e
+13/11/2018 02:27:53 PagSeguro.Session[info]: Begin
+13/11/2018 02:27:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:27:54 PagSeguro.Session[info]: Session ID: cc230a172dcb40ae90f77f236a198cb9
+13/11/2018 02:28:23 PagSeguro.Session[info]: Begin
+13/11/2018 02:28:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:28:25 PagSeguro.Session[info]: Session ID: 74bd9683b7e442d9aadd640b3ec09481
+13/11/2018 02:28:51 PagSeguro.Session[info]: Begin
+13/11/2018 02:28:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:28:52 PagSeguro.Session[info]: Session ID: 9c739cc1ba0c4aeab2975150bd5758b1
+13/11/2018 02:29:25 PagSeguro.Session[info]: Begin
+13/11/2018 02:29:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:29:26 PagSeguro.Session[info]: Session ID: da37be994fbf42d39f3246986613f201
+13/11/2018 02:30:08 PagSeguro.Session[info]: Begin
+13/11/2018 02:30:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:30:09 PagSeguro.Session[info]: Session ID: f9372b2a38ee46f6938cf648a10f8d39
+13/11/2018 02:31:40 PagSeguro.Session[info]: Begin
+13/11/2018 02:31:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:31:41 PagSeguro.Session[info]: Session ID: 636d8cf4222c4c20ab8d866028ac7f99
+13/11/2018 02:33:03 PagSeguro.Session[info]: Begin
+13/11/2018 02:33:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:33:05 PagSeguro.Session[info]: Session ID: 22a3a7a19e38478092b58ba4697c0325
+13/11/2018 02:38:52 PagSeguro.Session[info]: Begin
+13/11/2018 02:38:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:38:53 PagSeguro.Session[info]: Session ID: ba2917a7caf343219329f2486a4ebbde
+13/11/2018 02:39:16 PagSeguro.Session[info]: Begin
+13/11/2018 02:39:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:39:18 PagSeguro.Session[info]: Session ID: b819ad4d0519472384559e29fbdd1979
+13/11/2018 02:40:44 PagSeguro.Session[info]: Begin
+13/11/2018 02:40:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:40:45 PagSeguro.Session[info]: Session ID: 70a7c22f0620422a8597469305564aec
+13/11/2018 02:47:16 PagSeguro.Session[info]: Begin
+13/11/2018 02:47:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:47:17 PagSeguro.Session[info]: Session ID: 1a0524f5fc634a48a50bd50bc6a6b5c3
+13/11/2018 02:48:05 PagSeguro.Session[info]: Begin
+13/11/2018 02:48:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:48:07 PagSeguro.Session[info]: Session ID: 6b5596f3ae614fb7a431ea7b5f9dba91
+13/11/2018 02:49:02 PagSeguro.Session[info]: Begin
+13/11/2018 02:49:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:49:03 PagSeguro.Session[info]: Session ID: ad2132f9fa884212b6fb4e74a782c5ef
+13/11/2018 02:50:16 PagSeguro.Session[info]: Begin
+13/11/2018 02:50:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 02:50:18 PagSeguro.Session[info]: Session ID: 96215fc6733f4ee0a9528a87420baa90
+13/11/2018 03:04:08 PagSeguro.Session[info]: Begin
+13/11/2018 03:04:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:04:10 PagSeguro.Session[info]: Session ID: 5e75281c698b46baa858290747151b15
+13/11/2018 03:04:29 PagSeguro.Session[info]: Begin
+13/11/2018 03:04:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:04:29 PagSeguro.Session[info]: Session ID: d03d87090b8c4e29a878138f44716986
+13/11/2018 03:04:48 PagSeguro.Session[info]: Begin
+13/11/2018 03:04:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:04:50 PagSeguro.Session[info]: Session ID: 8781ebdd31bd441da04c1de2441576be
+13/11/2018 03:05:05 PagSeguro.Session[info]: Begin
+13/11/2018 03:05:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:05:07 PagSeguro.Session[info]: Session ID: 03a5a4901d3b4998840fc796bdf0af9a
+13/11/2018 03:05:57 PagSeguro.Session[info]: Begin
+13/11/2018 03:05:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:05:58 PagSeguro.Session[info]: Session ID: a5fd52c0e0494b599f3a32645eab328c
+13/11/2018 03:06:09 PagSeguro.Session[info]: Begin
+13/11/2018 03:06:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:06:10 PagSeguro.Session[info]: Session ID: 0213ddf8458f4ec1b091966db58a26a0
+13/11/2018 03:06:25 PagSeguro.Session[info]: Begin
+13/11/2018 03:06:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:06:27 PagSeguro.Session[info]: Session ID: bb0f05f42a414bb98d352471da446cf2
+13/11/2018 03:06:44 PagSeguro.Session[info]: Begin
+13/11/2018 03:06:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:06:46 PagSeguro.Session[info]: Session ID: c9ebbe1e298644ee9703fae7e38190eb
+13/11/2018 03:06:52 PagSeguro.Session[info]: Begin
+13/11/2018 03:06:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:06:53 PagSeguro.Session[info]: Session ID: 7a893203a2854a2f91c7058cab95876c
+13/11/2018 03:07:16 PagSeguro.Session[info]: Begin
+13/11/2018 03:07:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:07:18 PagSeguro.Session[info]: Session ID: aadba13e12024e5e9c428b801b6a57d7
+13/11/2018 03:08:02 PagSeguro.Session[info]: Begin
+13/11/2018 03:08:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:08:03 PagSeguro.Session[info]: Session ID: 8b63b9c3f1f64da3b3b406aa35307e2a
+13/11/2018 03:20:39 PagSeguro.Session[info]: Begin
+13/11/2018 03:20:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:20:40 PagSeguro.Session[info]: Session ID: 8a69a5bd235b4d45806add01eeb0c9f0
+13/11/2018 03:21:13 PagSeguro.Session[info]: Begin
+13/11/2018 03:21:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:21:14 PagSeguro.Session[info]: Session ID: af09c2aa29504922bca0b94de0d21a86
+13/11/2018 03:21:37 PagSeguro.Session[info]: Begin
+13/11/2018 03:21:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:21:38 PagSeguro.Session[info]: Session ID: ca5f784e440b4a9089338515aa385561
+13/11/2018 03:21:48 PagSeguro.Session[info]: Begin
+13/11/2018 03:21:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:21:49 PagSeguro.Session[info]: Session ID: dfb5c751d3aa4048aa6d4b2b5214c16d
+13/11/2018 03:22:14 PagSeguro.Session[info]: Begin
+13/11/2018 03:22:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:22:15 PagSeguro.Session[info]: Session ID: 306d6428587148ba8e0dc4b9c7615f6c
+13/11/2018 03:22:44 PagSeguro.Session[info]: Begin
+13/11/2018 03:22:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:22:45 PagSeguro.Session[info]: Session ID: a763c7b8aa7442ebafc39ca43af3694c
+13/11/2018 03:22:59 PagSeguro.Session[info]: Begin
+13/11/2018 03:22:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:23:00 PagSeguro.Session[info]: Session ID: 9e4715ecb5ce43a79e3e3f6801d6b30f
+13/11/2018 03:23:12 PagSeguro.Session[info]: Begin
+13/11/2018 03:23:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:23:13 PagSeguro.Session[info]: Session ID: 323bc030b39e4c2ba8d039b832351851
+13/11/2018 03:23:26 PagSeguro.Session[info]: Begin
+13/11/2018 03:23:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:23:27 PagSeguro.Session[info]: Session ID: e8bdc263ff0f42f3b3c7da2f93c9a88a
+13/11/2018 03:23:40 PagSeguro.Session[info]: Begin
+13/11/2018 03:23:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:23:41 PagSeguro.Session[info]: Session ID: c1e7d2facf06470d950cd13a3ca816a1
+13/11/2018 03:24:14 PagSeguro.Session[info]: Begin
+13/11/2018 03:24:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:24:16 PagSeguro.Session[info]: Session ID: 63b91350317542bf92b37984eb528678
+13/11/2018 03:26:38 PagSeguro.Session[info]: Begin
+13/11/2018 03:26:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:26:40 PagSeguro.Session[info]: Session ID: 8af7a648eafb43b18691f55c7d099c57
+13/11/2018 03:27:59 PagSeguro.Session[info]: Begin
+13/11/2018 03:27:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:28:01 PagSeguro.Session[info]: Session ID: 4df17b0b38114cdbbeb52c010d9390b0
+13/11/2018 03:28:12 PagSeguro.Session[info]: Begin
+13/11/2018 03:28:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:28:14 PagSeguro.Session[info]: Session ID: 7c99dba55b9641c9953b03740846ea24
+13/11/2018 03:30:34 PagSeguro.Session[info]: Begin
+13/11/2018 03:30:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:30:35 PagSeguro.Session[info]: Session ID: cc5da270a0e9442a873f39337f64da7c
+13/11/2018 03:30:56 PagSeguro.Session[info]: Begin
+13/11/2018 03:30:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:30:58 PagSeguro.Session[info]: Session ID: eb652cbe18064a849f12891130746af0
+13/11/2018 03:40:21 PagSeguro.Session[info]: Begin
+13/11/2018 03:40:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:40:22 PagSeguro.Session[info]: Session ID: 53336cf1b1b048b4ad902971fd185f0a
+13/11/2018 03:42:32 PagSeguro.Session[info]: Begin
+13/11/2018 03:42:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:42:34 PagSeguro.Session[info]: Session ID: dd29b8ec3dcc4ece822592467e949d35
+13/11/2018 03:42:46 PagSeguro.Session[info]: Begin
+13/11/2018 03:42:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:42:47 PagSeguro.Session[info]: Session ID: 000bba96a5f840eda9caacab41716ec0
+13/11/2018 03:49:25 PagSeguro.Session[info]: Begin
+13/11/2018 03:49:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:49:26 PagSeguro.Session[info]: Session ID: 32cb977009424cd087fed7a8ae5ace3c
+13/11/2018 03:56:48 PagSeguro.Session[info]: Begin
+13/11/2018 03:56:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+13/11/2018 03:56:50 PagSeguro.Session[info]: Session ID: d28d1a72a8f0463d811f89bc1ada7f13
+14/11/2018 00:24:40 PagSeguro.Session[info]: Begin
+14/11/2018 00:24:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 00:24:42 PagSeguro.Session[info]: Session ID: 6eb957e9550743199485ebdd973164ed
+14/11/2018 00:26:52 PagSeguro.Session[info]: Begin
+14/11/2018 00:26:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 00:26:54 PagSeguro.Session[info]: Session ID: b81906a3491948798acc5c6f25d19982
+14/11/2018 01:04:23 PagSeguro.Session[info]: Begin
+14/11/2018 01:04:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 01:04:24 PagSeguro.Session[info]: Session ID: 54c73124b6694f4aaf814d3b1cd6846f
+14/11/2018 01:05:02 PagSeguro.Session[info]: Begin
+14/11/2018 01:05:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 01:05:04 PagSeguro.Session[info]: Session ID: 72cf4806cb1f4442826f5c2040878cfc
+14/11/2018 01:05:52 PagSeguro.Session[info]: Begin
+14/11/2018 01:05:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 01:05:53 PagSeguro.Session[info]: Session ID: 847f3687dba248618470cbfe409a9c0c
+14/11/2018 01:09:00 PagSeguro.Session[info]: Begin
+14/11/2018 01:09:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 01:09:01 PagSeguro.Session[info]: Session ID: caf18d18c16f43e2928c3a016cbcd6ca
+14/11/2018 01:10:34 PagSeguro.Session[info]: Begin
+14/11/2018 01:10:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 01:10:35 PagSeguro.Session[info]: Session ID: 4a5735a9d3a243ea9156d3e0e86757e3
+14/11/2018 01:13:01 PagSeguro.Session[info]: Begin
+14/11/2018 01:13:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 01:13:02 PagSeguro.Session[info]: Session ID: ce6b5892502c4de2a1e3e563baea62a5
+14/11/2018 01:13:11 PagSeguro.Session[info]: Begin
+14/11/2018 01:13:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+14/11/2018 01:13:12 PagSeguro.Session[info]: Session ID: bb3d5cbae11b4ca3a1c334429e05d982
+17/11/2018 00:11:17 PagSeguro.Session[info]: Begin
+17/11/2018 00:11:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=ricardotecnicoeletronica%40gmail.com&token=783FA1876A304199887EA329D6438D92
+17/11/2018 00:11:19 PagSeguro.Session[info]: Session ID: 3f55f5d302ea46b0b1bc507781ec82aa
